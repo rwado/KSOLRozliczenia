@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="kimono">Kimono</string>
+    <string name="ubrania_klubowe">Ubrania Klubowe</string>
+    <string name="przyborowki">Przyborówki</string>
+    <string name="pasy">Pasy</string>
+    <string name="ochraniacze_na_nogi">Ochraniacze na nogi</string>
+    <string name="ochraniacze_specjalne">Ochraniacze specjalne</string>
+    <string name="rekawice_bokserskie">Rękawice bokserskie</string>
+    <string name="spodnie">Spodnie</string>
+    <string name="inne">Inne</string>
+    <string name="kimono_belt">Kimono z pasem</string>
+    <string name="bluza_adler">Bluza Adler</string>
+    <string name="dresy_klubowe">Dresy Klubowe (spodnie)</string>
+    <string name="oyama_pfk_tshirt">Koszulka Federacyjna</string>
+    <string name="oyama_tshirt">Koszulka JHK</string>
+    <string name="kubek_ksol">Kubek Klubowy</string>
+    <string name="nerka_ksol">Nerka Klubowa</string>
+    <string name="przyborowki_dzieciece">Przyborówki dziecięce</string>
+    <string name="przyborowki_elastyczne">Przyborówki elastyczne (turniejowe)</string>
+    <string name="przyborowki_skaj">Przyborówki skaj</string>
+    <string name="przyborowki_skora">Przyborówki skóra</string>
+    <string name="pas_bialy">Pas biały</string>
+    <string name="pas_niebieski">Pas niebieski</string>
+    <string name="pas_zolty">Pas żółty</string>
+    <string name="pas_pomarancz">Pas pomarańczowy</string>
+    <string name="pas_zielony">Pas zielony</string>
+    <string name="pas_braz">Pas brązowy</string>
+    <string name="ochr_bawelna">Ochraniacz goleń-stopa bawełna</string>
+    <string name="ochraniacz_nog">Ochraniacz goleń-stopa czarny</string>
+    <string name="ochr_instr">Ochraniacz goleń-stopa instruktorski</string>
+    <string name="hogo">Hogo dla kobiet</string>
+    <string name="ochr_kolana">Ochraniacz kolana</string>
+    <string name="szczeka_double">Ochraniacz szczęki podwójny</string>
+    <string name="szczeka_single">Ochraniacz szczęki pojedynczy</string>
+    <string name="suspensor">Suspensor</string>
+    <string name="rekawice_boks_junior">Rękawice bokserskie JUNIOR</string>
+    <string name="spodnie_bushi">Spodnie BUSHI</string>
+    <string name="informator">Informator OYAMA PFK</string>
+    <string name="naszywki">Naszywki (komplet)</string>
+    <string name="roller">Roller</string>
+    <string name="tarcza_bushi">Tarcza treningowa BUSHI</string>
+    <string name="tonfy">Tonfy (2 sztuki)</string>
+
+</resources>

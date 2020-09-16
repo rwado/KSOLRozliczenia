@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linearLayoutRecyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="#e0f7fa"
+    android:orientation="horizontal"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp">
+
+
+    <TextView
+        android:id="@+id/textNumber"
+        style="@style/TextRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_margin="3dp"
+        android:layout_weight="4"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/textPupilName"
+        style="@style/TextRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_margin="3dp"
+        android:layout_weight="1"
+        android:gravity="center" />
+
+</LinearLayout>

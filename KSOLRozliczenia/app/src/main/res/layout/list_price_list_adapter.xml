@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linearLayoutRecyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="#e0f7fa"
+    android:orientation="horizontal"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp">
+
+
+    <TextView
+        android:id="@+id/textItemName"
+        style="@style/TextRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp"
+        android:layout_weight="0.9"
+        android:gravity="center"
+        android:padding="0dp"
+        android:text="Tarcza trenignowa BUSHI" />
+
+    <TextView
+        android:id="@+id/textItemSize"
+        style="@style/TextRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="3dp"
+        android:layout_weight="1.07"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/textItemPrice"
+        style="@style/TextRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="3dp"
+        android:layout_weight="1.03"
+        android:gravity="center" />
+
+</LinearLayout>

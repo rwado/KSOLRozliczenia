@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "582636385314",
+    "firebase_url": "https://oyamaapp.firebaseio.com",
+    "project_id": "oyamaapp",
+    "storage_bucket": "oyamaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582636385314:android:b1c4914af900e68867867b",
+        "android_client_info": {
+          "package_name": "com.example.firebasenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582636385314-mr6fbbnnscvpuummg1pbtuutim92istl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasenew",
+            "certificate_hash": "2596cfc1e75bc60a7f460cf78ab9a52dd5262fa0"
+          }
+        },
+        {
+          "client_id": "582636385314-ug2io3olkfoibmd390svg5gvrsmpii2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-btRVcW2nWzXxNn-OFr4zhXSYKU8FB3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582636385314-ug2io3olkfoibmd390svg5gvrsmpii2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582636385314:android:36d394111be3675967867b",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582636385314-pf4vacsbpl507m39l3akto9qd34ii8ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaserealtimedb",
+            "certificate_hash": "2596cfc1e75bc60a7f460cf78ab9a52dd5262fa0"
+          }
+        },
+        {
+          "client_id": "582636385314-ug2io3olkfoibmd390svg5gvrsmpii2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-btRVcW2nWzXxNn-OFr4zhXSYKU8FB3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582636385314-ug2io3olkfoibmd390svg5gvrsmpii2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582636385314:android:7172c5702cd90d9967867b",
+        "android_client_info": {
+          "package_name": "com.example.ksolrozliczenia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582636385314-ug2io3olkfoibmd390svg5gvrsmpii2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-btRVcW2nWzXxNn-OFr4zhXSYKU8FB3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582636385314-ug2io3olkfoibmd390svg5gvrsmpii2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582636385314:android:a2de37404265919667867b",
+        "android_client_info": {
+          "package_name": "com.example.notificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582636385314-ug2io3olkfoibmd390svg5gvrsmpii2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-btRVcW2nWzXxNn-OFr4zhXSYKU8FB3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582636385314-ug2io3olkfoibmd390svg5gvrsmpii2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

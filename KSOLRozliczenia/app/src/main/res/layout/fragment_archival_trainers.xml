@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textViewSort"
+            style="@style/TextViewHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:text="Wybierz okres" />
+
+        <Button
+            android:id="@+id/buttonDatePickerTrainers"
+            style="@style/ButtonDefault"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="0dp"
+            android:drawableLeft="@drawable/calendar" />
+
+
+        <LinearLayout
+            android:id="@+id/linearLayoutHeader1"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:orientation="horizontal"
+            android:paddingLeft="4dp"
+            android:paddingRight="4dp">
+
+            <TextView
+                android:id="@+id/textDescription1"
+                style="@style/TextRecyclerHeader"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.9"
+                android:gravity="center"
+                android:text="Nazwa" />
+
+            <TextView
+                android:id="@+id/textQuantity1"
+                style="@style/TextRecyclerHeader"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.15"
+                android:gravity="center"
+                android:text="Szt." />
+
+            <TextView
+                android:id="@+id/textSender1"
+                style="@style/TextRecyclerHeader"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.02"
+                android:gravity="center"
+                android:text="Od" />
+
+            <TextView
+                android:id="@+id/textRecipient1"
+                style="@style/TextRecyclerHeader"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.02"
+                android:gravity="center"
+                android:text="Do" />
+
+            <TextView
+                android:id="@+id/textDate1"
+                style="@style/TextRecyclerHeader"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.04"
+                android:gravity="center"
+                android:text="Data\nwydania" />
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/listArchivalTrainers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="1dp"
+            android:layout_weight="0.7">
+
+        </ListView>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,159 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ButtonDefault">
+        <item name="android:background">@drawable/ripple_efect_default</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ButtonDefaultRed">
+        <item name="android:background">@drawable/ripple_efect_default_red</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ButtonDefaultGreen">
+        <item name="android:background">@drawable/ripple_efect_default_green</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ButtonBlue">
+        <item name="android:background">@drawable/ripple_efect_blue</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="ButtonLightBlue">
+        <item name="android:background">@drawable/ripple_efect_light_blue</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ButtonCyan">
+        <item name="android:background">@drawable/ripple_efect_cyan</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ButtonTeal">
+        <item name="android:background">@drawable/ripple_efect_teal</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    <style name="ButtonGreen">
+        <item name="android:background">@drawable/ripple_effect_green</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+    <style name="ButtonLightGreen">
+        <item name="android:background">@drawable/ripple_effect_light_green</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ButtonLime">
+        <item name="android:background">@drawable/ripple_effect_lime</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+
+
+    <style name="TextRecyclerView">
+        <item name="android:background">@drawable/text_view_recycler_layout</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TextRecyclerHeader">
+        <item name="android:background">@drawable/text_view_recycler_header</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TextAlertDialog">
+        <item name="android:background">@drawable/text_view_alert_dialog</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:layout_margin">0dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="SpinnerStyle">
+        <item name="android:background">@drawable/spinner_layout</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:layout_height">38dp</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ButtonIncDec">
+        <item name="android:background">@drawable/ripple_efect_blue</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:padding">0dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="TextViewHeader">
+        <item name="android:background">@drawable/text_view_header</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+
+</resources>

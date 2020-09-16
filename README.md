@@ -12,5 +12,5 @@ With this app, coaches can easily:
 * Check who received equipment from them
 * Check who paid for received equipment
 
-##Screenshots
-![Menu](/KSOLRozliczenia/Screenshots/view.jpg?raw=true)
+## Screenshots
+![Menu](Screenshots/view.jpg?raw=true "Optional Title")

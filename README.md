@@ -13,4 +13,4 @@ With this app, coaches can easily:
 * Check who paid for received equipment
 
 ## Screenshots
-![Menu](Screenshots/view.jpg?raw=true "Optional Title")
+<img src="Screenshots/view.jpg" width="200">

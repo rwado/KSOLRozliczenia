@@ -1,4 +1,4 @@
-# KSOL_Rozliczenia
+# Order Management Helper
 This app helps the coaches of the Klub Sportowy Oyama Lublin in managing and accounting for club equipment.
 App uses Firebase Realtime Database.
 
